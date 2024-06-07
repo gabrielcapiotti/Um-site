@@ -20,6 +20,11 @@ main{
 
 }
 
+.custom-card {
+    width: 40rem;
+}
+
+
 
 footer{
     background-color: black; 
@@ -29,6 +34,7 @@ footer{
 
 .rodape{
     text-align: center;
+    color: white;
 }
 
 
